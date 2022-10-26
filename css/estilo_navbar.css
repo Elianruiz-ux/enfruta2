@@ -1,0 +1,26 @@
+  
+  
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+  .navbar{
+    background-color: #fff!important;
+    box-shadow: 0 0 2px #000!important;
+  }
+
+  .container-fluid a{
+    color: rgb(0, 0, 0)!important;
+  }
+
+  .container-fluid a:active{
+    background-color: none!important;
+  }
+
+  .navbar-brand{
+    letter-spacing: -2px;
+    font-weight: bold;
+  }
